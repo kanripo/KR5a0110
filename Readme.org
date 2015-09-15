@@ -1,10 +1,10 @@
-#+TITLE: no title given / ZTDZ
+#+TITLE: 黃帝陰符經講義 / ZTDZ
 
 #+DATE: 2015-08-28 23:37:45.112187
 * 目次
- - [[file:_data][no title given data]]
- - [[file:KR5a0110_000.txt][no title given 0]]
- - [[file:KR5a0110_001.txt][no title given 1]]
- - [[file:KR5a0110_002.txt][no title given 2]]
- - [[file:KR5a0110_003.txt][no title given 3]]
- - [[file:KR5a0110_004.txt][no title given 4]]
+ - [[file:_data][黃帝陰符經講義 data]]
+ - [[file:KR5a0110_000.txt][黃帝陰符經講義 0]]
+ - [[file:KR5a0110_001.txt][黃帝陰符經講義 1]]
+ - [[file:KR5a0110_002.txt][黃帝陰符經講義 2]]
+ - [[file:KR5a0110_003.txt][黃帝陰符經講義 3]]
+ - [[file:KR5a0110_004.txt][黃帝陰符經講義 4]]
